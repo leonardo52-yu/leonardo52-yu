@@ -55,14 +55,12 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo52-yu&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-eweucykjz-leonardo-alvarado-s-projects.vercel.app/api/top-langs/?username=leonardo52-yu&layout=compact&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo52-yu&layout=compact&theme=radical&count_private=true)
+![Leonardo's GitHub stats](https://github-readme-stats-eweucykjz-leonardo-alvarado-s-projects.vercel.app/api?username=leonardo52-yu&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo52-yu&theme=radical)
 
----
 
 🌍 **Ubicación:** México  
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/) | [Correo](mailto:leonardoalvaradogonzalez3113)
