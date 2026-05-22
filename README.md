@@ -2,6 +2,8 @@
    **Desarrollador web en react**
 - Desarrollo en **Typescript** y **TSX** para generación de interfaces
 - Conocimientos en **DOM** y **HOOKS**
+- Manejo de **APIs** a traves de **AXIOS**
+- Dominio de librerias como **MapLibre**, **Spline**, **PrimeReact**
 - 
 🔧 **Especialista en ERP Odoo (MRP) (2025 - Actualidad)**
 - Desarrollo en **Python** y **XML** para personalización de módulos.
