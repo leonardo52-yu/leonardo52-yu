@@ -14,6 +14,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple?logo=odoo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
 
 ---
 
