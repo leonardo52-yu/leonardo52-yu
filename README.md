@@ -65,6 +65,16 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
+# 📊 Estadísticas de GitHub
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo52-yu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo52-yu&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo52-yu&theme=radical)
+
+---
+
 
 ---
 
