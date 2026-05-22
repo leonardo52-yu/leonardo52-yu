@@ -55,27 +55,5 @@
 
 ---
 
-🌍 **Ubicación:** México  
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/) | [Correo](mailto:leonardoalvaradogonzalez3113)
-
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-ERP-purple?logo=odoo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-
-# 📊 Estadísticas de GitHub
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo52-yu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo52-yu&layout=compact&theme=radical&count_private=true)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo52-yu&theme=radical)
-
----
-
-
----
-
+## 📊 Estadísticas de GitHub
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo52-yu&show_icons=true&theme
