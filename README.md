@@ -1,13 +1,16 @@
 # ¡Hola, soy Leonardo 👋
-
-🔧 **Especialista en ERP Odoo (MRP)**
+   **Desarrollador web en react**
+- Desarrollo en **Typescript** y **TSX** para generación de interfaces
+- Conocimientos en **DOM** y **HOOKS**
+- 
+🔧 **Especialista en ERP Odoo (MRP) (2025 - Actualidad)**
 - Desarrollo en **Python** y **XML** para personalización de módulos.
 - Experiencia en **optimización de procesos industriales** y trazabilidad.
+- Atendimiento de requerimientos para el continuo proceso de mejora
 
 📂 **Proyectos destacados**
 - `odoo-mrp-customizations`: Mejoras en producción y control de inventario.
 - `python-data-export-tools`: Scripts para exportación precisa de datos.
-- `manufacturing-quality-checks`: Automatización de verificaciones de calidad.
 
 🌍 Ubicación: México  
 📫 Contacto: [LinkedIn](https://www.linkedin.com/) | [Correo](leonardoalvaradogonzalez3113@gmail.com)
