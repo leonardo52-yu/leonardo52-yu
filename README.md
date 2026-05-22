@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Leonardo 👋
 
-<!--
-**leonardo52-yu/leonardo52-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Especialista en ERP Odoo (MRP)**
+- Desarrollo en **Python** y **XML** para personalización de módulos.
+- Experiencia en **optimización de procesos industriales** y trazabilidad.
+- Apasionado por la calidad y control en manufactura.
 
-Here are some ideas to get you started:
+📂 **Proyectos destacados**
+- `odoo-mrp-customizations`: Mejoras en producción y control de inventario.
+- `python-data-export-tools`: Scripts para exportación precisa de datos.
+- `manufacturing-quality-checks`: Automatización de verificaciones de calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Ubicación: México  
+📫 Contacto: [LinkedIn](https://www.linkedin.com/) | [Correo](leonardoalvaradogonzalez3113@gmail.com)
+
+---
+
